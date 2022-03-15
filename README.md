@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Frans Gustavson Påsse 🙂 </h1>
+<h1 align="center">Hello there, I'm Frans Gustavson Påsse 👋 </h1>
 <h3 align="center">An aspiring Front End Developer student from Malmö, Sweden.</h3>
 
 <h3 align="center">Connect with me:</h3>
