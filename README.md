@@ -3,7 +3,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  
 <a href="https://linkedin.com/in/frans-gustavson-påsse-8b6046201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frans-gustavson-påsse-8b6046201" height="30" width="40" /></a>
 <a href="https://fb.com/frans.passe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frans.passe" height="30" width="40" /></a>
 </p>
