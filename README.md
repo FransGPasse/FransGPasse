@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Frans Gustavson Påsse 👋 </h1>
-<h3 align="center">An aspiring Full Stack Developer from Malmö, Sweden.</h3>
+<h3 align="center">A Full Stack Developer with focus on the Front End from Malmö, Sweden.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
